@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Casey Helgeson"
 title_separator          : "-"
-name                     : &name "Casey Helgeson"
+name                     : "Casey Helgeson"
 description              : # &description
 url                      : https://caseyhelgeson.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
