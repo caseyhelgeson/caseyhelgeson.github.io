@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Casey Helgeson"
 title_separator          : "-"
 name                     : &name "Casey Helgeson"
-description              : &description "Disciplinary nomad. Pet peeves include misuse of 'begs the question' and 'friendly ammendment.'"
+description              : # &description
 url                      : https://caseyhelgeson.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caseyhelgeson/caseyhelgeson.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Casey Helgeson"
   pronouns         : # example: "she/her"  
-  bio              : "Academic researcher. Disciplinary nomad. Pet peeves include misuse of 'friendly amendment' and 'begs the question.'"
+  bio              : "Academic researcher. Disciplinary nomad. PhD Philosophy, BS Math.'"
   location         : "State College, PA"
   employer         : "Penn State University"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "caseyhelgeson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
