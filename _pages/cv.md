@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-**Under construction
-**
+**Under construction**
