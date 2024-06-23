@@ -21,7 +21,7 @@ repository               : "caseyhelgeson/caseyhelgeson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Casey Helgeson"
   pronouns         : # example: "she/her"  
   bio              : "Academic researcher. Disciplinary nomad. PhD Philosophy, BS Math.'"
