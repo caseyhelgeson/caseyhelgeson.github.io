@@ -7,4 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This site is still under construction. 
+Casey Helgeson
+Assistant Research Professor
+Earth and Environmental Systems Institute
+Affiliate Faculty, Department of Philosophy
+Affiliated Faculty, Rock Ethics Institute
+Penn State University
+
+314 Earth and Engineering Sciences Building
+University Park, PA 16802
+helgeson@psu.edu
