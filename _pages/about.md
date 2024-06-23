@@ -1,19 +1,10 @@
 ---
 permalink: /
-title: "Under construction"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Casey Helgeson  
-Assistant Research Professor  
-Earth and Environmental Systems Institute  
-Affiliate Faculty, Department of Philosophy  
-Affiliated Faculty, Rock Ethics Institute  
-Penn State University  
-
-314 Earth and Engineering Sciences Building  
-University Park, PA 16802  
-helgeson@psu.edu  
+I'm an assistant research professor in the Earth and Environmental Systems Institute at Penn State University. My research addresses how values-based judgments and assumptions combine with evidence-based science and engineering in the study and management of climate risks.
