@@ -12,9 +12,9 @@ title                    : "Casey Helgeson"
 title_separator          : "-"
 name                     : &name "Casey Helgeson"
 description              : &description "Disciplinary nomad. Pet peeves include misuse of 'begs the question' and 'friendly ammendment.'"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://caseyhelgeson.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caseyhelgeson.github.io"
+repository               : "caseyhelgeson/caseyhelgeson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Casey Helgeson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Academic researcher. Disciplinary nomad. Pet peeves include misuse of 'friendly amendment' and 'begs the question.'"
   location         : "State College, PA"
   employer         : "Penn State University"
   uri              : # URL
