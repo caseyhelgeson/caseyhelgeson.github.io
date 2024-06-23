@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-### email:
+**email:**  
 helgeson@psu.edu
 
-### post:  
+**post:**  
 2217 EES Building, University Park, PA 16802
 
-### office: 
+**office:**  
 314 Earth and Engineering Sciences (EES) Building  
