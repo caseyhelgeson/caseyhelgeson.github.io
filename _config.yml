@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Casey Helgeson"
 title_separator          : "-"
 name                     : &name "Casey Helgeson"
-description              : &description "personal description"
+description              : &description "Disciplinary nomad. Pet peeves include misuse of 'begs the question' and 'friendly ammendment.'"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "caseyhelgeson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
