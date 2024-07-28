@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url: https://github.com/caseyhelgeson/caseyhelgeson.github.io/files/Helgeson_cv.pdf
 
   - title: "Contact"
     url: /contact/
