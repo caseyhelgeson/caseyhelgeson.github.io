@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: files/Helgeson_cv.pdf
+    url: /cv/
 
   - title: "Contact"
     url: /contact/

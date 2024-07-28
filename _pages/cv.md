@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-## Under construction
+[View my CV (PDF)](files/Helgeson_cv.pdf)
