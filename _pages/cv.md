@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[View my CV (PDF)](../files/Helgeson_cv.pdf)
+[View my CV (PDF)](https://caseyhelgeson.github.io/files/Helgeson_cv.pdf)
