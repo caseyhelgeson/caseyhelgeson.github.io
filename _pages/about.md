@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant research professor in the Earth and Environmental Systems Institute, and affiliate facutly in the Philosophy Department and Rock Ethics Institute, at Penn State University. 
+I am an associate research professor in the Earth and Environmental Systems Institute, and affiliate facutly in the Philosophy Department and Rock Ethics Institute, at Penn State University. 
 
 My research addresses how values-based judgments work together with evidence-based science and engineering in the study and management of climate risks.
 
